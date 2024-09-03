@@ -1,4 +1,4 @@
 # PGL
 Programming learning
 
-std::cout << "HELLO WORLD" << std:: endl;
+std::cout << "\n\tHELLO WORLD" << std:: endl;
